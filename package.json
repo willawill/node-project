@@ -1,0 +1,27 @@
+{
+  "name": "myProject",
+  "version": "0.0.0",
+  "description": "Help me to understand gulp I guess?",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Willa",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-uglify": "^0.3.0",
+    "gulp-jshint": "^1.6.1",
+    "gulp-sass": "^0.7.1",
+    "karma": "^0.12.16",
+    "karma-jasmine": "^0.1.5",
+    "mocha": "^1.20.0",
+    "karma-mocha": "^0.1.3",
+    "istanbul": "^0.2.10",
+    "lodash": "^2.4.1",
+    "karma-chrome-launcher": "^0.1.4",
+    "gulp-karma": "0.0.4"
+  }
+}
